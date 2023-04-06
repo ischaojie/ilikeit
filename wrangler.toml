@@ -1,0 +1,7 @@
+name = "ilikeit"
+main = "src/index.ts"
+compatibility_date = "2023-04-06"
+
+kv_namespaces = [
+  { binding = "KV_ILIKEIT", id = "fbfc06ecb3ce4ae3b3fae1501899cdd7" }
+]
