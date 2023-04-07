@@ -3,5 +3,5 @@ main = "src/index.ts"
 compatibility_date = "2023-04-06"
 
 kv_namespaces = [
-  { binding = "KV_ILIKEIT", id = "fbfc06ecb3ce4ae3b3fae1501899cdd7" }
+    { binding = "KV_ILIKEIT", id = "fbfc06ecb3ce4ae3b3fae1501899cdd7", preview_id = "107209220b454483814702a297144ea1" },
 ]
