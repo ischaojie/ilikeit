@@ -23,6 +23,8 @@ export default {
 		const headers = {
 			"content-type": "application/json;charset=UTF-8",
 			"Access-Control-Allow-Origin": "*",
+			"Access-Control-Allow-Headers": "*",
+			"Access-Control-Allow-Methods": "*",
 		};
 		const data = {
 			source: source,
